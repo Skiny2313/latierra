@@ -1,0 +1,23 @@
+body{
+border:8px solid;
+margin-top: 15px;
+margin-left: 15px;
+margin-rigth: 15px;
+border-color:#FF1493;
+background:#D2691E;
+color#008B8B;
+}
+
+p{
+margin-left:40px;
+margin-right:40px;
+text-align:justify;
+front-size:25px;
+}
+
+img{
+border-style:dashed;
+boder-whidt: 15px;
+border-color: green;
+border-radius: 80px;
+}
